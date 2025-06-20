@@ -5,8 +5,8 @@ html {
 body {
   width: 100%;
   height: 100%;
-  --flag-green: #396b4c;
-  --flag-red: #e54b40;
+  --flag-yellow: #f1bf00;
+  --flag-red: #aa151b;
 }
 
 div#content {
@@ -44,7 +44,7 @@ div#buttons button {
 }
 
 button#correct {
-  background-color: var(--flag-green);
+  background-color: var(--flag-yellow);
   color: #fff;
 }
 
@@ -56,7 +56,7 @@ button#incorrect {
 a {
   text-decoration: none;
   background: #fff;
-  color: var(--flag-green);
+  color: var(--flag-yellow);
 }
 
 a:visited,
