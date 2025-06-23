@@ -33,6 +33,7 @@ const cards = {
     { front: "madrugada", back: "dawn" },
     { front: "alcabala", back: "checkpoint" },
     { front: "suegra", back: "mother-in-law, heel of a loaf of bread" },
+    { front: "peluquero", back: "hairdresser" }
   ],
 };
 
