@@ -36,6 +36,7 @@ const cards = {
     { front: "peluquero", back: "hairdresser" },
     { front: "espaldarazo", back: "accolade, endorsement, support" },
     { front: "erario", back: "treasury" },
+    { front: "acosar", back: "harass, pursue, bully, beleaguer" },
   ],
 };
 
