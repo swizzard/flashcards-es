@@ -37,6 +37,7 @@ const cards = {
     { front: "espaldarazo", back: "accolade, endorsement, support" },
     { front: "erario", back: "treasury" },
     { front: "acosar", back: "harass, pursue, bully, beleaguer" },
+    { front: "huelga", back: "strike (work stoppage)" },
   ],
 };
 
