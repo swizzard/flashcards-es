@@ -39,6 +39,7 @@ const cards = {
     { front: "acosar", back: "harass, pursue, bully, beleaguer" },
     { front: "huelga", back: "strike (work stoppage)" },
     { front: "cegar", back: "to blind" },
+    { front: "encima de", back: "on, on top of" },
   ],
 };
 
